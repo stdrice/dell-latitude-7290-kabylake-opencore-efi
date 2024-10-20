@@ -32,3 +32,8 @@
 - AirDrop (Intel wifi)
 - Brightness keys
 - You tell me
+
+# How to use?
+- Clone this repo
+- Copy EFI folder to your USB/EFI partition
+- [Follow this guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html) to generate SMBIOS and fix iServices
