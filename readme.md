@@ -25,6 +25,8 @@
 - USB (Type-C and Type-A)
 - Camera, Microphone
 - SD Card
+- OpenCore GUI
+- Boot Chime
 
 # Not tested
 - Multi display with HDMI/VGA/DisplayPort
