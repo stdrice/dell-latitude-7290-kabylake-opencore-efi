@@ -19,8 +19,9 @@
 # Working
 - Graphics acceleration
 - Wi-Fi, Bluetooth, Ethernet
-- Audio
+- Audio (speakers)
 - Keyboard, Touchpad
+- Brightness keys (FN + S and FN + B, not arrow keys)
 - USB (Type-C and Type-A)
 - Camera, Microphone
 - SD Card
@@ -31,7 +32,7 @@
 
 # Not working
 - AirDrop (Intel wifi)
-- Brightness keys
+- Headphone jack (cracking audio)
 - You tell me
 
 # How to use?
