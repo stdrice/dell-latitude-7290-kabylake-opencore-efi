@@ -20,6 +20,7 @@
 - Graphics acceleration
 - Wi-Fi, Bluetooth, Ethernet
 - Audio (speakers, headphone jack)
+- Multi display with HDMI/VGA/DisplayPort
 - Keyboard, Touchpad
 - Brightness keys (FN + S and FN + B, not arrow keys)
 - USB (Type-C and Type-A)
@@ -29,7 +30,6 @@
 - Boot Chime
 
 # Not tested
-- Multi display with HDMI/VGA/DisplayPort
 - iServices (i don't have an iphone)
 
 # Not working
