@@ -6,7 +6,7 @@
 | ------------------ | ---------------------------------------- |
 | **Model**          | Dell Latitude 7290                       |
 | **SMBIOS**         | MacBookPro 15,2                          |
-| **macOS**          | Sonoma (14) or higher                    |
+| **macOS**          | Sonoma (14)	                    	|
 | **CPU**            | Intel Core i5-7300U                      |
 | **GPU**            | Intel HD Graphics 620                    |
 | **Display**        | 1366x768                                 |
