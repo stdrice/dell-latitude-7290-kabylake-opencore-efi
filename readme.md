@@ -5,7 +5,7 @@
 | Component          | Specs                                    |
 | ------------------ | ---------------------------------------- |
 | **Model**          | Dell Latitude 7290                       |
-| **SMBIOS**         | MacBookPro 15,2                          |
+| **SMBIOS**         | MacBookPro15,2                           |
 | **macOS**          | Sonoma (14)	                    	|
 | **CPU**            | Intel Core i5-7300U                      |
 | **GPU**            | Intel HD Graphics 620                    |
@@ -30,10 +30,11 @@
 - Boot Chime
 
 # Not tested
-- iServices (i don't have an iphone)
+- iServices (i don't have an iPhone)
 
 # Not working
 - AirDrop (Intel wifi)
+- Headphone jack cracking after sleep
 - You tell me
 
 # How to use?
