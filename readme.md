@@ -34,6 +34,7 @@
 
 # Not working
 - AirDrop (Intel wifi)
+- DRM (iGPU)
 - Headphone jack cracking after sleep
 - You tell me
 
