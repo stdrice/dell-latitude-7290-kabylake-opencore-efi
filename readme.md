@@ -1,4 +1,4 @@
-# OpenCore EFI for Dell Latitude 7290 (7th)
+# OpenCore EFI for Dell Latitude 7290/7390 (7th)
 ![img](https://i.imgur.com/wiWFtLQ.png)
 
 # Specs
