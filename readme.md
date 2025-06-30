@@ -1,4 +1,4 @@
-# OpenCore EFI for Dell Latitude 7290/7390 (7th)
+# OpenCore EFI for Dell Latitude 7290/7390 (KabyLake)
 ![img](https://i.imgur.com/wiWFtLQ.png)
 
 # Specs
@@ -12,7 +12,7 @@
 | **Display**        | 1366x768                                 |
 | **Wi-Fi**          | Intel Dual Band Wireless-AC 8265         |
 | **Ethernet**       | Intel Ethernet I219                      |
-| **Touchpad**       | Alps Touchpad                            |
+| **Touchpad**       | ELAN Touchpad                            |
 | **Soundcard**      | Realtek ALC3246/ALC256 (layout-id: `17`) |
 | **SD Card Reader** | Realtek RTS525A                          |
 
@@ -26,15 +26,13 @@
 - USB (Type-C and Type-A)
 - Camera, Microphone
 - SD Card
+- iServices
 - OpenCore GUI
 - Boot Chime
-
-# Not tested
-- iServices (i don't have an iPhone)
+- You tell me
 
 # Not working
 - AirDrop (Intel wifi)
-- DRM (iGPU)
 - Headphone jack cracking after sleep
 - You tell me
 
