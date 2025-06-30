@@ -26,6 +26,7 @@
 - USB (Type-C and Type-A)
 - Camera, Microphone
 - SD Card
+- Sleep (S3 Sleep)
 - iServices
 - OpenCore GUI
 - Boot Chime
@@ -33,6 +34,7 @@
 
 # Not working
 - AirDrop (Intel wifi)
+- Fingerprint (No Apple T2 chip)
 - Headphone jack cracking after sleep
 - You tell me
 
