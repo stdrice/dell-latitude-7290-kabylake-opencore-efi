@@ -1440,7 +1440,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 alcid=17 igfxonln=1 kext-dev-mode=1 unfairgva=7 -igfxnotelemetryload</string>
+				<string>alcid=17 kext-dev-mode=1 unfairgva=7 -igfxnotelemetryload</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
