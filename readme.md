@@ -28,6 +28,7 @@
 - SD Card
 - Sleep (S3 Sleep)
 - iServices
+- DRM (Apple Music, ...)
 - OpenCore GUI
 - Boot Chime
 - You tell me
