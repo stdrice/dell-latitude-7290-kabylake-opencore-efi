@@ -36,7 +36,6 @@
 # Not working
 - AirDrop (Intel wifi)
 - Fingerprint (No Apple T2 chip)
-- Headphone jack cracking after sleep
 - You tell me
 
 # How to use?
@@ -44,3 +43,8 @@
 - Copy EFI folder to your USB/EFI partition
 - [Follow this guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html) to generate SMBIOS and fix iServices
 - Install [BlueSnooze](https://github.com/odlp/bluesnooze) to fix Bluetooth not working after sleep
+- Install []() to fix headphone jack cracking after sleep
+```
+git clone https://github.com/hackintosh-stuff/ComboJack
+cd ComboJack/ComboJack_Installer
+./install.sh
