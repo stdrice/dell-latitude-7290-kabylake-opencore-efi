@@ -6,7 +6,7 @@
 | ------------------ | ---------------------------------------- |
 | **Model**          | Dell Latitude 7290/7390                  |
 | **SMBIOS**         | MacBookPro15,2                           |
-| **macOS**          | Sonoma (14) or later      	            |
+| **macOS**          | Sonoma (14)		      	            |
 | **CPU**            | Intel Core i5-7300U                      |
 | **GPU**            | Intel HD Graphics 620                    |
 | **Display**        | 1366x768                                 |
@@ -44,7 +44,7 @@
 - [Follow this guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html) to generate SMBIOS and fix iServices
 - Install [HeliPort](https://github.com/OpenIntelWireless/HeliPort) to control Wi-Fi
 - Install [BlueSnooze](https://github.com/odlp/bluesnooze) to fix Bluetooth not working after sleep
-- Install []() to fix headphone jack cracking after sleep
+- Install [ComboJack](https://github.com/hackintosh-stuff/ComboJack) to fix headphone jack cracking after sleep
 ```
 git clone https://github.com/hackintosh-stuff/ComboJack
 cd ComboJack/ComboJack_Installer
