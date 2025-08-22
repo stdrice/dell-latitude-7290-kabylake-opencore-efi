@@ -42,7 +42,6 @@
 - Clone this repo
 - Copy EFI folder to your USB/EFI partition
 - [Follow this guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html) to generate SMBIOS and fix iServices
-- Install [HeliPort](https://github.com/OpenIntelWireless/HeliPort) to control Wi-Fi
 - Install [BlueSnooze](https://github.com/odlp/bluesnooze) to fix Bluetooth not working after sleep
 - Install [ComboJack](https://github.com/hackintosh-stuff/ComboJack) to fix headphone jack cracking after sleep
 ```
